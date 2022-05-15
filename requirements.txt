@@ -1,0 +1,6 @@
+pyrogram
+asyncio
+wheel
+colorama
+requests
+tgcrypto==1.2.3
